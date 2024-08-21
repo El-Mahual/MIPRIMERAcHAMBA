@@ -67,7 +67,7 @@ fun CertificatingCourse(nombre:String, modifier: Modifier = Modifier){
                 fontSize = 15.sp,
                 fontWeight = FontWeight.Bold,
                 textAlign = TextAlign.Center,
-
+//ola
 
             )
             Spacer(modifier = Modifier.width(25.dp))
